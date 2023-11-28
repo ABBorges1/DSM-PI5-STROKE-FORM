@@ -38,6 +38,6 @@ O projeto tem como objetivo auxiliar profissionais da saúde na prevenção do A
   O aplicativo mobile foi desenvolvido usando Flutter.
 
 ## Integrantes
-- **Adriel Barbosa Borges**(https://github.com/ABBorges1)
+- Adriel Barbosa Borges(https://github.com/ABBorges1)
 
-- **Guilherme de Almeida Morais Ferreira**(https://github.com/devguiamf)
+- Guilherme de Almeida Morais Ferreira(https://github.com/devguiamf)
