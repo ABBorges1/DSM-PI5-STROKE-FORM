@@ -40,4 +40,4 @@ O projeto tem como objetivo auxiliar profissionais da saúde na prevenção do A
 ## Integrantes
 - [Adriel Barbosa Borges](https://github.com/ABBorges1)
 
--[Guilherme de Almeida Morais Ferreira](https://github.com/devguiamf)
+- [Guilherme de Almeida Morais Ferreira](https://github.com/devguiamf)
